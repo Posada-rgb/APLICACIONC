@@ -1,0 +1,14 @@
+C:\Users\saul\source\repos\WcfPosada\WcfPosada\bin\WcfPosada.dll.config
+C:\Users\saul\source\repos\WcfPosada\WcfPosada\bin\WcfPosada.dll
+C:\Users\saul\source\repos\WcfPosada\WcfPosada\bin\WcfPosada.pdb
+C:\Users\saul\source\repos\WcfPosada\WcfPosada\obj\Debug\WcfPosada.csprojAssemblyReference.cache
+C:\Users\saul\source\repos\WcfPosada\WcfPosada\obj\Debug\WcfPosada.csproj.CoreCompileInputs.cache
+C:\Users\saul\source\repos\WcfPosada\WcfPosada\obj\Debug\WcfPosada.dll
+C:\Users\saul\source\repos\WcfPosada\WcfPosada\obj\Debug\WcfPosada.pdb
+C:\Users\PC\Desktop\WcfPosada\WcfPosada\bin\WcfPosada.dll.config
+C:\Users\PC\Desktop\WcfPosada\WcfPosada\bin\WcfPosada.dll
+C:\Users\PC\Desktop\WcfPosada\WcfPosada\bin\WcfPosada.pdb
+C:\Users\PC\Desktop\WcfPosada\WcfPosada\obj\Debug\WcfPosada.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\WcfPosada\WcfPosada\obj\Debug\WcfPosada.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\WcfPosada\WcfPosada\obj\Debug\WcfPosada.dll
+C:\Users\PC\Desktop\WcfPosada\WcfPosada\obj\Debug\WcfPosada.pdb
